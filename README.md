@@ -2,7 +2,6 @@
 
 An AI-powered compliance tool that surfaces racial disparity patterns in mortgage lending data — built for fair lending officers who need exam-ready answers in seconds, not weeks.
 
-Built to demonstrate the **Palantir AIP pattern**: raw regulatory data in, LLM-powered operator decision support out.
 
 ---
 
